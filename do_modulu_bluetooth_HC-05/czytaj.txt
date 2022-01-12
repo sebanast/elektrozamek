@@ -1,0 +1,2 @@
+wgrywane jako płytka digispark przez arduino
+na module HW-260 wgrany micronucleus.
